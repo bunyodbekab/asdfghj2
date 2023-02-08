@@ -9,6 +9,7 @@ from django.core.checks import messages
 # django.setup()
 import json
 
+
 from django.shortcuts import get_object_or_404
 import telebot
 from telebot import types
